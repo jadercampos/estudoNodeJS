@@ -1,5 +1,4 @@
-//Human Msg
+//Human file
 exports.hello = function (msg) {
 	console.log(msg);
 };
-//Human Msg2
