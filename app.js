@@ -1,5 +1,5 @@
-//App file*
+﻿//App file*
 var hello = require('./hello');
 var human = require('./human');
-hello('Olá');
+hello('Olá João');
 human.hello('Olá humanos');
